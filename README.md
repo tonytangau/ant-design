@@ -8,7 +8,10 @@
 
 <div align="center">
 
-An enterprise-class UI design language and React implementation.
+An UI design language and React implementation.
+<h3><b>Note:</b>This UI library is not for production purpose, use at your own Risk</h3>
+
+<hr>
 
 [![CircleCI branch](https://img.shields.io/circleci/project/github/ant-design/ant-design/master.svg?style=flat-square)](https://circleci.com/gh/ant-design/ant-design)
 [![Codecov](https://img.shields.io/codecov/c/github/ant-design/ant-design/master.svg?style=flat-square)](https://codecov.io/gh/ant-design/ant-design/branch/master)
